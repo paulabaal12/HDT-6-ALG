@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"IHeap"},{"p":"<Unnamed>","l":"main"},{"p":"<Unnamed>","l":"TN"},{"p":"<Unnamed>","l":"VectorHeap"}];updateSearchResults();
